@@ -4,7 +4,7 @@ All credits to https://github.com/hashdog/lightsail-docker-compose
 Enter the following code into the dialog box:
 
    ```
-   curl -o lightsail-compose.sh https://raw.githubusercontent.com/hashdog/lightsail-docker-compose/master/lightsail-compose.sh
+   curl -o lightsail-compose.sh https://raw.githubusercontent.com/ImSuperlative/lightsail-docker-compose/main/lightsail-compose.sh
 
    chmod +x ./lightsail-compose.sh
 
